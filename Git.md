@@ -72,3 +72,6 @@ Comandos necesarios para añadir este archivo a mi repositorio:
 1. git status
 1. git commit -m "Archivo git.md"
 1. git push origin master
+
+Enlace al repositorio público
+https://github.com/Metalender/test2
